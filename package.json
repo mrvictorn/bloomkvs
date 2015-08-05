@@ -1,6 +1,6 @@
 {
   "name": "bloomkvs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bloom filter with key-value storage",
   "main": "kvbloom.js",
   "scripts": {
