@@ -1,11 +1,14 @@
 # bloomkvs
+
 ## Bloom filter with key-value storage
 
 
 ### installation:
-npm i --save bloomkvs
 
-###usage
+    npm i --save bloomkvs
+
+### usage
+
     var BFilter = require('bloomkvs');
     
     var options = {
@@ -44,8 +47,10 @@ npm i --save bloomkvs
     });
     
 ### TODO 
-1. Write tests
-2. Use separate key to save\restore filter options 
+    
+    1. Write tests
+    2. Use separate key to save\restore filter options 
  
 ### license
-MIT
+
+    MIT
